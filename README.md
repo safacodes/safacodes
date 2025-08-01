@@ -6,7 +6,7 @@
 🌱 I’m currently learning and building projects with **Python** and **C++**  
 💡 Exploring problem solving, automation, and software development  
 📚 Always curious to learn more about data structures, algorithms, and real-world applications  
-📫 How to reach me: [Email me](mailto:youremail@example.com) *(replace with your real email)*
+📫 How to reach me: safakamran03@gmail.com
 
 ---
 
@@ -29,15 +29,14 @@
 ---
 
 ### 🚀 Projects I'm Proud Of
-- 🔧 [Project Name](#) — short description here *(replace with real project links and descriptions)*
-- 🛠️ [Another Project](#) — what it does and what you learned
+- 🔧 [Project Name](#) — realtime data compresser
 
 ---
 
 ### 🌍 Let's Connect!
 <p>
   <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href=safakamran03@gmail.com"mailto><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
